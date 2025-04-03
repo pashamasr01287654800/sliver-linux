@@ -56,5 +56,5 @@ Sliver-Linux features a custom professional icon for an enhanced user experience
 Download & Contribute
 
 The project is available on GitHub:
-🔗 https://github.com/pashamasr01287654800/sliver-linux
+🔗 https://github.com/pashamasr01287654800/sliver-linux/releases/download/v1.0.0/sliver-linux.deb
 
